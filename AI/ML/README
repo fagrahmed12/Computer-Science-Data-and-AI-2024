@@ -9,3 +9,17 @@ Microsoft Machine Learning Engineer : https://drive.google.com/drive/u/0/folders
 6-MLOps Tools, MLflow and Hugging Face  
 7-Build Basic Generative Adversarial Networks GANs 
 8-Natural Language Processing with Attention Models 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+لو عايز تعمل deploy ل AI model بسرعة .. البوست ده ليك 
+
+خطوة ال deployment من أكتر الخطوات اللى بتزعج ال AI Engineers بسبب إنه عايز يركز أكتر على الموديل نفسه و مش محتاج أكتر من واجهة سريعة يعرض عليها شغله. 
+
+الحل : Gradio 
+
+Gradio بيسهل ال deployment جدا فتقدر تعمل app فى حوالى 10 سطور كود بايثون فبالتالى بيوفر وقت كتير جدا .. يكفى إنى أقولك أن فى تيمات فى Google و Microsoft و Amazon بتستخدمه عشان يعرضوا أفكارهم بسرعة. 
+
+لينك Documentation أحدث نسخة ل Gradio : 
+https://lnkd.in/dW36dRN2
