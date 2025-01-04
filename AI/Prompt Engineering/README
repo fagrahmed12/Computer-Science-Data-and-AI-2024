@@ -1,1 +1,19 @@
+- هندسة الأوامر | Prompt Engineering.
 
+التعريف: طريقة معينة في صياغة الأوامر اللي بتوجّهها لواجهات الدردشة مع النماذج اللغوية الكبيرة (LLMs) زي ChatGPT - Claude - Google Gemini.
+
+ملاحظة: الموضوع ده حل مؤقت لتحسين النتائج، خلال كام سنة بالكتير هيختفي ومش هيبقى مُهم، ومفيش وظيفة إسمها Prompt Engineer، دي مُجرد مهارة لها فائدة حاليًا.
+
+المصادر:
+
+- دليل هندسة الأوامر من شركة جوجل - Google Gemini Guide.
+
+https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
+
+- دليل هندسة الأوامر من شركة OpenAI:
+
+https://platform.openai.com/docs/guides/prompt-engineering
+
+- دليل هندسة الأوامر من شركة Anthropic اللي عملت Claude:
+
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
